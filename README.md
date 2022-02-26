@@ -1,2 +1,2 @@
-# Coaching.github.io
+# Coaching.
 A simple Website
